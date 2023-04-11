@@ -1,7 +1,7 @@
 # 0x1E. C - Search Algorithms
 Resources
 ---------
-
+#
 **Read or watch**:
 
 *   [Search algorithm](/rltoken/ap2kuRv8qrUMyQ0-MY3EXw "Search algorithm")
